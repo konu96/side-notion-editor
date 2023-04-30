@@ -1,6 +1,6 @@
 {
-  "name": "vitesse-webext",
-  "displayName": "Vitesse WebExt",
+  "name": "side-notion-editor",
+  "displayName": "Side Notion Editor",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@7.29.0",
